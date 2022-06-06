@@ -31,7 +31,6 @@ function Listing() {
 
     return (
         <>
-
             <Pagination />
             <div className="container">
                 <div className="row">
